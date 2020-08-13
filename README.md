@@ -4,6 +4,8 @@
 Mario using python
 
 Yeahhh...!!, that good old legend game is Back 
+
+
 Super Mario is the world's most famous game, You maybe from any age group but you would know about super mario.
 I tried to mimic that madness if the game using Python.
 I thank Mr Amit Kumar Sir (CETPA Infotech Lucknow) for guiding me in this project.
@@ -22,6 +24,7 @@ Libraries requred :-
 install these libraries before running the code 
 
 Open the main file and run it in order to play the game the file is in gamelib folder.
+
 Jumps from z and controls from arrow
 
 This project was one of the toughest projects and my first project while working in a team.
